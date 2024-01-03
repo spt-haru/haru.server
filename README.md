@@ -1,2 +1,3 @@
-# haru.server
+# Haru.Server
+
 The server application.
